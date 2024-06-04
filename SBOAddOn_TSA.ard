@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="U_Setting_1" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="U_Setting_1" ExtVersion="3.0.0.1" Contdata="" Partner="U_Setting_1" DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="3.0.0.1" To="3.0.0.10" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="C:\Users\BIZ003\OneDrive - BIZDIMENSION CO., LTD\Visual Studio\SBO_SDK-master\UI_Settings\bin\Debug\UI_Settings.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="UI_Settings.b1s">
+              <Actions />
+            </File>
+            <File FileName="UI_Settings.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="UI_Settings.b1s">
+              <Actions />
+            </File>
+            <File FileName="UI_Settings.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\Users\BIZ003\OneDrive - BIZDIMENSION CO., LTD\Visual Studio\SBO_SDK-master\UI_Settings\bin\Debug\UI_Settings.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="UI_Settings.b1s">
+              <Actions />
+            </File>
+            <File FileName="UI_Settings.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="UI_Settings.b1s">
+              <Actions />
+            </File>
+            <File FileName="UI_Settings.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
